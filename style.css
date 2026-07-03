@@ -128,17 +128,17 @@ body{
 }
 .fraca{
     width: 25%;
-    background-color: #E71B32; 
+    background-color: #b3192b; 
 }
 .parametro-senha-textos{
     display: flex;
     justify-content: space-between;
 }
 .media{
-    background-color: #FAF408;
+    background-color: #0840f7;
     width: 50%;
 }
 .forte{
-    background-color: #00FF85;
+    background-color: #ff1616b9;
     width: 100%;
 }
